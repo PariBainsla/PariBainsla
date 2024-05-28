@@ -9,7 +9,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/PariBainsla](https://github.com/PariBainsla)
 
-- 📫 How to reach me **https://www.linkedin.com/in/pari-bainsla-4586b6228/**
+- 📫 How to reach me **https://www.linkedin.com/in/paribainsla**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
