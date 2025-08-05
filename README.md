@@ -5,11 +5,11 @@
 
 <img  display="flex" align="right" alt="coding" width="400" src="https://cdn.dribbble.com/users/4055494/screenshots/15215756/media/d2b66c4ca0192aa26d103448b3d1518b.gif">
 
-- 🌱 I’m currently learning & building with the **MERN Stack**
+- 🌱 I’m currently learning & building with the **MERN Stack**.
   
-- ⚒️ I love building full-stack web apps and creating clean UI/UX
+- ⚒️ I love building full-stack web apps and creating clean UI/UX.
   
-- 🚀 I deploy my apps on **Render, Vercel, Netlify**, and **GitHub Pages**
+- 🚀 I deploy my apps on **Render, Vercel, Netlify** and **GitHub Pages**.
   
 - 👨‍💻 All of my projects are available at [https://github.com/PariBainsla](https://github.com/PariBainsla)
   
